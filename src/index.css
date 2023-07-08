@@ -1,12 +1,12 @@
 :root {
   --white: #FFFFFF;
-  --tan-1: #FBF9F6;
-  --tan-2: #E7E2DD;
-  --tan-3: #E2D9D1;
-  --tan-4: #D3C1AE;
-  --orange: #F67F00;
-  --text-light: #968c84;
-  --text-dark: #615954;
+  --tan-1: #d6e6df;
+  --tan-2: #bfcec9;
+  --tan-3: #DEEBE6;
+  --tan-4: #C2D3CD;
+  --orange: #68B89C;
+  --text-light: #515654;
+  --text-dark: #363B39;
 }
 
 *, *:before, *:after {

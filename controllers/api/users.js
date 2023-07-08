@@ -4,7 +4,7 @@ const bcrypt = require('bcrypt');
 
 module.exports = {
   create,
-  login
+  login,
 };
 
 // This function fires when a POST request is made to /api/users
